@@ -1,3 +1,2 @@
 # hello-world
-
-Need coffee.
+My name is Alexis and I'm studying data science through Coursera.
